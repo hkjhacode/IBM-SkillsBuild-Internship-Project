@@ -225,49 +225,48 @@ The dataset contains 292,364 entries with the following statistics:
 
 ### 1. Distribution of Mental Health Survey Respondents by Country
 
-![Distribution of Feature](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/1_Distribution_of_Mental_Health_Survey_Respondents_by_Country.png)
+![Distribution of Feature](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/1_Distribution_of_Mental_Health_Survey_Respondents_by_Country.png)
 
 The distribution plot indicates a high concentration of survey respondents from the United States and the United Kingdom, accounting for approximately 70% of the dataset.
 
 ### 2. Gender Distribution
 
-![Gender Distribution](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/2_Gender_Distribution_&_Count.png) 
-
+![Gender Distribution](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/2_Gender_Distribution_%26_Count.png)
 The pie chart shows that about 82% of the respondents are male, highlighting a significant gender imbalance in the dataset.
 
 ### 3. Growing Stress by Gender and stress 
 
-![Growing Stress by Gender](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/3_Stress_Levels.png) 
+![Growing Stress by Gender](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/3_Stress_Levels.png) 
 
 The bar chart depicts the growing stress levels categorized by gender, revealing differences in stress experiences across genders.This pie chart illustrates the distribution of responses regarding growing stress, with 34% indicating mental health issues, another 34% not experiencing issues, and the remaining respondents unsure.
 
 ### 4. Growing Stress by Days Indoors
 
-![Growing Stress by Days Indoors](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/4_Stress_by_days_indoors.png)
+![Growing Stress by Days Indoors](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/4_Stress_by_days_indoors.png)
 
 The bar plot visualizes how days spent indoors correlate with growing stress, providing insights into the relationship between indoor activity and stress levels.
 
 ### 5. Growing Stress by Occupation
 
-![Growing Stress by Occupation](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/5_Growing_Stress_by_Occupations.png)
+![Growing Stress by Occupation](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/5_Growing_Stress_by_Occupations.png)
 
 This visualization shows the variation of growing stress across different occupations, aiding in understanding occupational stress factors.
 
 ### 7. Growing Stress by Work Interest
 
-![Growing Stress by Work Interest](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/6_Stress_by_Work_Interest.png) 
+![Growing Stress by Work Interest](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/6_Stress_by_Work_Interest.png) 
 
 The count plot examines the relationship between growing stress and work interest, showing how work-related stress impacts mental health.
 
 ### 7. Growing Stress by Changes in Habits
 
-![Growing Stress by Changes in Habits](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/7_Stress_by_Changes_Habits.png)
+![Growing Stress by Changes in Habits](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/7_Stress_by_Changes_Habits.png)
 
 This count plot reveals the impact of changes in habits on growing stress, offering insights into how lifestyle modifications affect mental health.
 
 ### 8. Family History and Treatment
 
-![Family History and Treatment](hkjhacode/IBM-SkillsBuild-Internship-Project/Plots/8_Family_History_&_Treatment.png) 
+![Family History and Treatment](https://github.com/hkjhacode/IBM-SkillsBuild-Internship-Project/blob/main/Plots/8_Family_History_%26_Treatment.png) 
 
 The pie charts show that 39% of respondents have a family history of mental health issues, while 50% have sought treatment. This suggests that both genetic factors and treatment-seeking behavior play significant roles in mental health.
 
